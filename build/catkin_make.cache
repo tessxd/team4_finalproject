@@ -1,0 +1,2 @@
+lab1:lab2:lab3:racecar_base_public/ackermann_cmd_mux:racecar_base_public/planning_utils:racecar_base_public/push_button_utils:racecar_base_public/racecar:racecar_base_public/racecar_description:racecar_base_public/ydlidar:razor_imu_9dof:realsense/realsense_camera:realsense2/realsense2_camera:vesc/vesc:vesc/vesc_ackermann:vesc/vesc_driver:vesc/vesc_msgs
+-DCATKIN_DEVEL_PREFIX=/home/nvidia/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nvidia/catkin_ws/install -G Unix Makefiles

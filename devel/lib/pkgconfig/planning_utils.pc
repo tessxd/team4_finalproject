@@ -1,0 +1,8 @@
+prefix=/home/nvidia/catkin_ws/devel
+
+Name: planning_utils
+Description: Description of planning_utils
+Version: 0.0.0
+Cflags: -I/home/nvidia/catkin_ws/devel/include
+Libs: -L/home/nvidia/catkin_ws/devel/lib 
+Requires: 
